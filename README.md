@@ -122,9 +122,7 @@ Through this project, I improved my understanding of:
 
 </pre>
 
-## 📷 Project Demo
-<pre>
-(Add screenshots or a screen recording here)
+
 
 </pre>
 
